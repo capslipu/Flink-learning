@@ -1,0 +1,8 @@
+hello hello
+hello world
+hello scala
+hadoop
+hello spark
+hive scala kafka kylin
+how are you
+zookeeper
